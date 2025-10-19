@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Sagar Kumar and I'm a Full Stack Developer, from IIT Bombay</h2>
 
-[![Sagar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LazyCodeer)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 ###
 
 <div align="left">
