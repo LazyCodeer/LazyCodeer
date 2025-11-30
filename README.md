@@ -72,20 +72,7 @@ const sagar = {
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LazyCodeer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LazyCodeer&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyCodeer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
----
-
-### 🌟 3D Contribution Graph
+### 🌟 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LazyCodeer/LazyCodeer/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
@@ -100,8 +87,6 @@ const sagar = {
 </div>
 
 ---
-
-### 🐍 Contribution Snake Game
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LazyCodeer/LazyCodeer/output/github-snake-dark.svg" alt="Snake animation" />
@@ -125,17 +110,12 @@ const sagar = {
 
 ---
 
-### 💡 Random Dev Quote
+### 💡 Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
 
 <div align="center">
   
