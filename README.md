@@ -74,15 +74,23 @@ const sagar = {
 
 ---
 
-### 🏆 GitHub Trophies
+### 🌟 3D Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LazyCodeer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+  <img src="https://raw.githubusercontent.com/LazyCodeer/LazyCodeer/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
 
-### 🐍 Watch the Snake Eat My Contributions!
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LazyCodeer&custom_title=LazyCodeer's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+### 🐍 Contribution Snake Game
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LazyCodeer/LazyCodeer/output/github-snake-dark.svg" alt="Snake animation" />
