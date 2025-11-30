@@ -82,6 +82,14 @@ const sagar = {
 
 ---
 
+### 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LazyCodeer/LazyCodeer/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 🤝 Connect with Me
 
 <div align="center">
