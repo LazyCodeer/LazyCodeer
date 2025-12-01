@@ -115,12 +115,3 @@ const sagar = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
-
-
-<div align="center">
-  
-  **⭐ From [LazyCodeer](https://github.com/LazyCodeer)**
-  
-  *Show some ❤️ by starring some of my repositories!*
-  
-</div>
